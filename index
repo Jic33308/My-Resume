@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> <img src="./images/profile pic.jpg" height="75" alt=""> 
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Resume</title>
+</head>
+<body> 
+  <h1>ADEGBAYI, OPEYEMI ADENIYI</h1>
+  <a href="tel:+2349071586734">+2349071586734</a> | <a href="https://mail.google.com/mail/u/0/#all?compose=new">adegbayiopeyemiadeniyi@gmail.com</a> | <a href="https://maps.app.goo.gl/HeP14hLtbWVE7Dw1A">2, Bale Boluwaji Ibadan 200243</a> 
+  <hr>
+  <h2><u>Objective Statement</u></h2>
+  <p> Focused on contributing to a forward-thinking tech company, using a proven ability to transform complex ideas into user-friendly solutions. </p>
+  <h2><u>Education</u></h2>
+  <ul>
+    <li> <h3>Tertiary Education</h3>
+     <ul>
+      <li> Bachelors in Engineering in the field of Mechanical Engineering
+        <p>KWARA STATE UNIVERSITY, MALETE.  </p> 
+      </li>
+     </ul>
+    <li><h3>Secondary Education</h3>
+    <ul>
+      <li>
+        Senior School Certificate
+        <p>FOUNTAIN OF KNOWLEDGE ACADEMY, IJAKO.</p>
+      </li>
+    </ul>
+     <li><h3>Primary Education:</h3>
+      <ul>
+        <li>
+          Primary School Leaving Certificate
+          <p>LIVING SPRING MONTESSORI SCHOOL, ILASAMAJA.
+          </p>
+        </li>
+      </ul>
+    </li>
+     </li>
+     </li>
+  </ul>
+  
+  <h2><u>Professional Certification</u></h2>
+  <ul>
+    <li>
+      Graduate Member Nigeria Society of Engineers (GMNSE)
+    </li>
+    <li>
+      Graduate Member Nigeria Institute of Mechanical Engineers (GMNIMeche)
+    </li>
+  </ul>
+  
+  
+<h2><u>Skills</u></h2>
+<ul>
+  <li>
+    Data Analysis Using Excel 
+  </li>
+  <li>
+    SQL
+  </li>
+  <li>
+    Computer Aided Design Softwares
+  </li>
+
+</ul>
+<h2> 
+  <u>
+    Work Experience
+  </u>
+</h2>
+<ul>
+  <li> <h3>Graduate Internship</h3>
+    <ul>
+     <li> TRANSMISSION COMPANY OF NIGERIA OSOGBO SUB-REGION OFFICE.
+       <ul>
+        <li>I served as a graduate trainee in the system lines department of the transmission company of Nigeria where I learnt about electrical safety and the grid system.
+        </li>
+        <li>Major work of the system lines department includes the lines regular patrol, safety of the transmission tower and lines, the repairs and replacements of conductors, clamps, and other line maintenance practices.
+        </li>
+       </ul>
+     </li>
+    </ul>
+    <li> <h3>Student Internship</h3>
+      <ul>
+        <li>
+          SETRACO NIGERIA LIMITED, UTURU SITE, ABIA STATE.
+          <ul>
+            <li>Carried out hands on activities as a corrective maintenance engineer
+            </li>
+            <li>Did repair works on the hydraulic hoses, bucket teeth replacement, grader kick starter replacement, repair of alternator of a Volvo dump truck and many other major works.              
+            </li>
+          </ul>
+        </li> 
+      </ul>
+    </li>
+</ul>
+
+<footer>
+  <p> Author: Adegbayi Opeyemi</p>
+  <p> <a href="mailto:adegbayiopeyemiadeniyi@gmail.com">Click here</a> to send me an E-mail</p>
+</footer>
+</body>
+
+</html>
